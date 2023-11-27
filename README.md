@@ -1,5 +1,5 @@
-# recipes-api
-A django project for recipe management
+# django-auth-starter
+A simple API repo that can be used as a starter to provide authentication to any DRF project.
 
 # Linting
 docker-compose run --rm app sh -c "flake8"
